@@ -1,4 +1,4 @@
-package br.com.alura.rh.services;
+package br.com.alura.rh.services.reajuste;
 
 import java.math.BigDecimal;
 import java.util.List;
